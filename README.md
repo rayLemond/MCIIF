@@ -11,7 +11,7 @@ We have detailly explain the codes by annotations, check it out!
 See 'dts_bbc4view.mat' and 'dts_WikipediaArticles.mat'.
 
 ## Citation
-If you find this codes helpful, please kindly refer our paper by:
+If you find this codes helpful, please kindly refer:
 ```
 @article{liang2020robust,
   title={Robust multi-view clustering via inter-and-intra-view low rank fusion},
@@ -23,4 +23,4 @@ If you find this codes helpful, please kindly refer our paper by:
   publisher={Elsevier}
 }
 ```
-muchas gracias!
+Muchas gracias!
